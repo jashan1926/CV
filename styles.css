@@ -1,0 +1,34 @@
+body {
+  background-color: #e3fdfd;
+}
+
+.circular {
+  display: inline-block;
+    position: relative;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 10%;
+}
+
+.my_image:hover
+{
+  color: gold;
+}
+
+.my_image:active
+{
+  color: red;
+}
+
+hr {
+  border: none;
+  border-top-style: dotted;
+  border-color: #cbf1f5;
+  width: 7%;
+}
+
+h1,h3
+{
+  color: #71c9ce;
+}
