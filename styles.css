@@ -3,10 +3,9 @@ body {
 }
 
 .circular {
-  display: inline-block;
-    position: relative;
-    width: 150px;
-    height: 150px;
+
+  
+
     overflow: hidden;
     border-radius: 10%;
 }
