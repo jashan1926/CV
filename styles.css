@@ -158,8 +158,8 @@ h3 {
 hr {
   border       : dotted #eaf6f6 10px;
   border-bottom: none;
-
-  margin       : 8rem auto;
+  
+  margin       : 8rem 45%;
   align-self   : center;
 }
 
